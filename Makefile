@@ -12,7 +12,7 @@ update : $(PHDOCS)
 	# insert code for copying to server here.
 	@echo ' done.'
 
-html/%.html : %.jemdoc MENU
+html/%.html : %.jemdoc MENU mywebsite.conf
 	python2 jemdoc.py -c mywebsite.conf -o $@ $<
 
 .PHONY : clean
