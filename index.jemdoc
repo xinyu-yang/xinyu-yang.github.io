@@ -1,16 +1,17 @@
 # jemdoc: menu{MENU}{index.html}, nofooter  
-==Xinyu Yang
+==Xinyu Yang (杨信宇)
 
 ~~~
-{}{img_left}{photos/bio.jpg}{alt text}{131}{160}{http://xinyuyoung.github.io/}
-PhD,\n [], \n[]\n
+{}{img_left}{file/bio.jpg}{Oops}{131}{160}{http://xinyu-yang.github.io/}
+PhD,\n []
+\n[]\n
 \n
- \n 
-E-post: 
+\n 
+Email: yangxinyu75\[at\]live\[dot\]com
 ~~~
 
 == About me
-I received the B.S. and M.Sc. degrees in computer engineering from
+I received the B.S. degree in Automation from North China Electric Power University, Baoding, China, and M.Sc. degree in Cyberspace Security from Tsinghua University, Beijing, China (supervisor:[http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu Prof.Mingwei Xu]).
 
 == Research
 My research interests include 
@@ -19,12 +20,10 @@ My research interests include
 - Artificial Intelligence
 
 [research.html Find out more].
-=== Recent Publications 
-. E. Ghadimi, A. Teixeira, I. Shames, and M. Johansson \" Optimal parameter selection for the alternating direction method of
-multipliers (ADMM): quadratic problems \", IEEE Transactions on Automatic Control, 2015. \[[http://arxiv.org/abs/1306.2454 arxiv]\]
-. E. Ghadimi, A. Teixeira, M. Rabbat, and M. Johansson, \"The ADMM algorithm for distributed averaging: Convergence rates and optimal parameter selection\", In Proceedings of the 48th Asilomar Conference on Signals, Systems and Computers, 2014. \[[https://www.dropbox.com/s/k9izxz1m39yvvuz/admm_distributed_aveg.pdf?dl=0 pdf] \]
-. E. Ghadimi, O. Landsiedel, P. Soldati, S. Duquennoy, and M. Johansson, \"Opportunistic Routing in Low Duty-Cycle Wireless Sensor Networks\", ACM Transactions on Senor Networks, 2014. \[[pub/oppTOSN.pdf pdf]\]
 
-[publications.html Full list of publications].
+=== Recent Publications 
+. *X. Yang*, J. Cao and M. Xu, "SEC: Secure, Efficient, and Compatible Source Address Validation with Packet Tags," 2020 IEEE 39th International Performance Computing and Communications Conference (IPCCC), 2020 \[[https://www.researchgate.net/publication/351019888_SEC_Secure_Efficient_and_Compatible_Source_Address_Validation_with_Packet_Tags researchgate]\]
+
+# [publications.html Full list of publications].
 \n
-[cv.pdf A brief cv].
+[file/cv.pdf A brief cv].
