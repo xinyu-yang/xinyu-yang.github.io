@@ -2,28 +2,34 @@
 ==Xinyu Yang (杨信宇)
 
 ~~~
-{}{img_left}{file/bio.jpg}{Oops}{131}{160}{http://xinyu-yang.github.io/}
-PhD,\n []
-\n[]\n
-\n
-\n 
-Email: yangxinyu75\[at\]live\[dot\]com
+{}{img_left}{../file/bio.jpg}{Oops}{150}{165}{http://xinyu-yang.github.io/}
+Ph.D. candidate \n
+Department of Computer Science \n
+Virginia Tech, Blacksburg \n
+Virginia, VA 24061
+\n \n
+Email: xinyuyang\[at\]vt\[dot\]edu
 ~~~
 
 == About me
-I received the B.S. degree in Automation from North China Electric Power University, Baoding, China, and M.Sc. degree in Cyberspace Security from Tsinghua University, Beijing, China (supervisor:[http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu Prof.Mingwei Xu]).
+I am a Ph.D. candidate in Computer Science at [https://www.vt.edu Virginia Tech], advised by [https://people.cs.vt.edu/penggao/ Prof. Penggao].
+Prior to VT, I received the B.S. degree in Automation from North China Electric Power University, Baoding, China,
+and M.S. degree in Cyberspace Security from Tsinghua University, Beijing, China (supervisor:[http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu Prof. Mingwei Xu]).
 
 == Research
 My research interests include 
 - Computer Network
 - Security Protocols
-- Artificial Intelligence
 
 [research.html Find out more].
 
-=== Recent Publications 
+== Recent Publications 
 . *X. Yang*, J. Cao and M. Xu, "SEC: Secure, Efficient, and Compatible Source Address Validation with Packet Tags," 2020 IEEE 39th International Performance Computing and Communications Conference (IPCCC), 2020 \[[https://www.researchgate.net/publication/351019888_SEC_Secure_Efficient_and_Compatible_Source_Address_Validation_with_Packet_Tags researchgate]\]
 
-# [publications.html Full list of publications].
+[publication.html Full list of publications].
+
+== Awards and Honors
+
+
 \n
-[file/cv.pdf A brief cv].
+[../file/cv.pdf A brief cv].
