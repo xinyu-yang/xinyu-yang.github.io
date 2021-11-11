@@ -2,7 +2,7 @@
 ==Xinyu Yang (杨信宇)
 
 ~~~
-{}{img_left}{../file/bio.jpg}{Oops}{150}{165}{http://xinyu-yang.github.io/}
+{}{img_left}{./file/bio.jpg}{Oops}{150}{165}{http://xinyu-yang.github.io/}
 Ph.D. candidate \n
 Department of Computer Science \n
 Virginia Tech, Blacksburg \n
@@ -32,4 +32,4 @@ My research interests include
 
 
 \n
-[../file/cv.pdf A brief cv].
+# [./file/cv.pdf A brief cv].
