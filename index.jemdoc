@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{index.html}, nofooter  
+## jemdoc: menu{MENU}{index.html}, nofooter  
 ==Xinyu Yang (杨信宇)
 
 ~~~
@@ -30,6 +30,7 @@ My research interests include
 
 == Awards and Honors
 
+[activity.html Find out more].
 
 \n
 # [./file/cv.pdf A brief cv].
