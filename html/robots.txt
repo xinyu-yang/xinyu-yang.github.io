@@ -3,6 +3,9 @@ User-agent: *
 Disallow: /blog/images/
 Disallow: /blog/js/
 Disallow: /blog/css/
+Disallow: /bio/
+
+Allow: /blog/
 
 User-agent: MJ12bot
 Disallow: /
@@ -62,4 +65,5 @@ User-agent: ZoominfoBot
 Disallow: /
 
 Sitemap: https://xinyu-yang.github.io/blog/sitemap.xml
+Sitemap: https://xinyu-yang.github.io/blog/zh-cn/sitemap.xml
 Sitemap: https://xinyu-yang.github.io/blog/en/sitemap.xml
