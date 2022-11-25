@@ -3,23 +3,26 @@
 
 ~~~
 {}{img_left}{./bio/bio.jpg}{Oops}{150}{165}{http://xinyu-yang.github.io/}
-Ph.D. candidate \n
-Department of Computer Science \n
-Virginia Tech, Blacksburg \n
-Virginia, VA 24061
+# Ph.D. candidate \n
+# Department of Computer Science \n
+# Virginia Tech, Blacksburg \n
+# Virginia, VA 24061
+Intern at [https://clustarai.com/ 星云 Clustar] \n
+Shenzhen, Guangdong \n
+China
 \n \n
-Email: xinyuyang\[at\]vt\[dot\]edu
+Email: xinyu.yang \[at\] clustar \[dot\] ai
 ~~~
 
 == About me
-I am a Ph.D. candidate in Computer Science at [https://www.vt.edu Virginia Tech], advised by [https://people.cs.vt.edu/penggao/ Prof. Peng Gao].
-Prior to VT, I received the B.S. degree in Automation from North China Electric Power University, Baoding, China,
-and M.S. degree in Cyberspace Security from Tsinghua University, Beijing, China (supervisor:[http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu Prof. Mingwei Xu]).
+I am currently an intern at [https://clustarai.com/ 星云 Clustar], and I will enroll as a Ph.D. student of [https://ising.cse.ust.hk/ iSING Lab @ HKUST] in 2023 Fall.
+I worked with [https://people.cs.vt.edu/penggao/ Prof. Peng Gao] during 2021 Fall and 2022 Fall.
+Before that, I received the B.S. degree in Automation from North China Electric Power University and M.S. degree in Cyberspace Security from Tsinghua University (supervisor:[http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu Prof. Mingwei Xu]).
 
 == Research
-My research interests include 
-- Computer Network
-- Security Protocols
+My research interests include:
+- Computer Networks
+- Network and System Security
 
 [research.html Find out more].
 
